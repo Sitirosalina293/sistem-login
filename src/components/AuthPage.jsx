@@ -56,7 +56,7 @@ function AuthPage() {
               value={email}
               required
             />
-            <label for="floatingInput">Username</label>
+            <label for="floatingInput">Email</label>
           </div>
           <div class="form-floating">
             <input
